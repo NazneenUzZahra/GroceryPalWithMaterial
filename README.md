@@ -23,3 +23,7 @@ Login and Menus:
 ![3xxvzk](https://user-images.githubusercontent.com/53296115/80208777-5598ca80-864a-11ea-9aec-8789c47fd1e5.gif)
 
 ![3xxw92](https://user-images.githubusercontent.com/53296115/80209098-d788f380-864a-11ea-8cdc-597fe7a52ac6.gif)
+
+![3xxwkl](https://user-images.githubusercontent.com/53296115/80209533-afe65b00-864b-11ea-8185-fb77408e5477.gif)
+
+![3xxxnq](https://user-images.githubusercontent.com/53296115/80209676-e8863480-864b-11ea-839e-2ee2be006e94.gif)
