@@ -10,3 +10,7 @@ Following are the Project Demo Gifs:
 
 Slide Show
 ![3xxt0i](https://user-images.githubusercontent.com/53296115/80207587-d73b2900-8647-11ea-9339-bf7c44f26204.gif)
+
+Registration form
+Login and menu
+
